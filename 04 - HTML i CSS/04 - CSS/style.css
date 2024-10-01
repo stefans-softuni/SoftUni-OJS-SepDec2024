@@ -1,0 +1,27 @@
+h1 {
+    color: purple;
+    font-size: 42px;
+}
+
+p {
+    color: blue;
+    text-align: right;
+    width: 400px;
+}
+
+.klasa1 {
+    text-align: center;
+    border: 1px solid green;
+}
+
+#p1 {
+    color:brown;
+    text-align: left;
+    font-size: 36px;
+}
+
+a {
+    width: 400px;
+    background-color: bisque;
+    display: inline-block;
+}
